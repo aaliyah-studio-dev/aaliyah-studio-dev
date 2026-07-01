@@ -1,4 +1,7 @@
-### Hi, I'm Aaliyah 💁🏻‍♀️ (she/her)
+
+<p align="center">
+  <img src="banner.png" alt="Aaliyah Evanie Studio banner" />
+</p>
 
 Designer-engineer based in Amersfoort, the Netherlands 🇳🇱
 
