@@ -24,3 +24,6 @@ I build things at the intersection of craft and code — currently putting that 
 ---
 
 *Empathy is not a feature. It is the foundation.*
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaliyah-studio-dev&show_icons=true&theme=radical)
